@@ -1,9 +1,9 @@
 {
-  "name": "socket.io-chat",
-  "version": "0.0.0",
+  "name": "fastchat",
+  "version": "0.0.1",
   "description": "A simple chat client using socket.io",
   "main": "index.js",
-  "author": "Grant Timmerman",
+  "author": "NicestRudeGuy",
   "private": true,
   "license": "BSD",
   "dependencies": {
@@ -12,6 +12,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "npm ci && npm start"
+    "freshStart": "npm ci && npm start"
   }
 }
