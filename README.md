@@ -1,7 +1,7 @@
 
-# Socket.IO Chat
+# Basic Socket.io chat app WIP
 
-A simple chat demo for socket.io
+New features will be added soon
 
 ## How to use
 
